@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+# personal profile dumps from tools/backup.py
+backups/
+# local experiments with an unrelated keyboard
+tools/kb_*.py
+udev/71-koorui-mk082.rules
+config/

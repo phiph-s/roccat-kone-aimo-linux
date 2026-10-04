@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+import os, sys
+sys.path.insert(0, os.environ.get('KONE_AIMO_LIB', '@LIBDIR@'))
+from aimo.app import main
+sys.exit(main())

@@ -1,0 +1,2 @@
+# ROCCAT Kone Aimo (Remastered / 16K): Zugriff auf hidraw für den eingeloggten Benutzer
+KERNEL=="hidraw*", SUBSYSTEM=="hidraw", ATTRS{idVendor}=="1e7d", ATTRS{idProduct}=="2e2c", TAG+="uaccess"

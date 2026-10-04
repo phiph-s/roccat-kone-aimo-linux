@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Kone Aimo
+GenericName=Mouse Settings
+Comment=Configure DPI, lighting and buttons of the ROCCAT Kone Aimo
+Exec=kone-aimo
+Icon=io.github.phiph.KoneAimo
+Terminal=false
+Categories=Settings;HardwareSettings;GTK;
+Keywords=roccat;mouse;dpi;rgb;led;buttons;
+StartupNotify=true
+StartupWMClass=io.github.phiph.KoneAimo
